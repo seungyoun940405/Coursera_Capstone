@@ -1,0 +1,16 @@
+2. Data sources
+
+Foursquare location data 
+- companies
+- coffee shops
+
+Below is an example of Foursquare location data:
+
+	Neighborhood	Neighborhood Latitude	Neighborhood Longitude	Venue	Venue Latitude	Venue Longitude	Venue Category
+0	Parkwoods	43.753259	-79.329656	Brookbanks Park	43.751976	-79.332140	Park
+1	Parkwoods	43.753259	-79.329656	KFC	43.754387	-79.333021	Fast Food Restaurant
+2	Parkwoods	43.753259	-79.329656	Variety Store	43.751974	-79.333114	Food & Drink Shop
+3	Victoria Village	43.725882	-79.315572	Victoria Village Arena	43.723481	-79.315635	Hockey Arena
+4	Victoria Village	43.725882	-79.315572	Tim Hortons	43.725517	-79.313103	Coffee Shop
+
+I will be focusing on those with Category - Coffee Shop/Cafe and Company/Office.
